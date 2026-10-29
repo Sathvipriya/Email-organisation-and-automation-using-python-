@@ -34,6 +34,10 @@ A Python automation script that cleans up a Gmail inbox. It finds promotional an
 
    python Email_automation.py
 
+
+
+
+OUTPUT :
 ## Example Output
 Connecting to Gmail server...
 Login successful!
